@@ -170,7 +170,7 @@ Bônus extras serão concedidos pelo uso consistente dos *commit types* abaixo:
 ```
 @autor:                [Thales Gustavo Mendes Nunes]
 @contato:              [thales.gustavo@discente.ufma.br]
-@data última versão:   28/04/2025
+@data última versão:   06/05/2025
 @versão:               2.0
 @outros repositórios:  [URLs opcionais]
 @Agradecimentos:       Universidade Federal do Maranhão (UFMA),
