@@ -220,7 +220,7 @@ def main():
     # você precisa implementar a função compute_cost_multi_with_history, que calcula o custo
     # e armazena o histórico de parâmetros θ em cada iteração.
     # A função compute_cost_multi_with_history é semelhante à função compute_cost_multi,
-    theta_gd, J_history, theta_history = gradient_descent_multi_with_history(X_b, y, theta_gd, alpha, num_iters)
+    theta_gd, J_history, theta_history = gradient_descent_multi_with_history(X_b, y, np.zeros(X_b.shape[1]), alpha, num_iters)
     theta_ne_norm = np.zeros_like(theta_ne)
     # ------------------------------------------------------------------
     # 7) Contorno J(θ1, θ2) (θ0 fixo em θ_gd[0]). Malha de custo centrada no ótimo
