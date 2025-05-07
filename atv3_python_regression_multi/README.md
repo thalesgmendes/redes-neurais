@@ -168,8 +168,8 @@ Bônus extras serão concedidos pelo uso consistente dos *commit types* abaixo:
 ### Reconhecimentos e Direitos Autorais
 
 ```
-@autor:                [Seu Nome]
-@contato:              [Seu Email]
+@autor:                [Thales Gustavo Mendes Nunes]
+@contato:              [thales.gustavo@discente.ufma.br]
 @data última versão:   28/04/2025
 @versão:               2.0
 @outros repositórios:  [URLs opcionais]
